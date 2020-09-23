@@ -1,8 +1,0 @@
-md5: 844fa8bd7406b3c2baa03b3c100ed1e3
-frozen: true
-deps:
-- md5: fa8b9e82c893eb401f30c353bd550ada
-  path: remote://first_subdir/images/owl_sticker.png
-outs:
-- md5: fa8b9e82c893eb401f30c353bd550ada
-  path: owl_sticker.png

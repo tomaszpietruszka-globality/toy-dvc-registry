@@ -1,6 +1,0 @@
-['remote "storage"']
-url = https://remote.dvc.org/dataset-registry
-[core]
-remote = storage
-['remote "first_subdir"']
-url = ../../subdir
