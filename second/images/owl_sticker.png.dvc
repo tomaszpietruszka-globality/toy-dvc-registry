@@ -1,0 +1,10 @@
+md5: 25e7362e4e1f591ba6249918a261d6f5
+frozen: true
+deps:
+- path: subdir/images/owl_sticker.png
+  repo:
+    url: ../
+    rev_lock: f7d3d422f4fc8f6035343f933ade8f8e0c9e5c72
+outs:
+- md5: fa8b9e82c893eb401f30c353bd550ada
+  path: owl_sticker.png
